@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1460903604 source:c:\opengl_v0\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1450046760 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1450046751 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1450046746 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1450046753 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1450046758 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1450046788 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1450046738 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1450046916 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1450046838 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1450046846 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1450046745 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1450046911 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1450046909 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1450046914 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1450046841 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1450046761 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1450046764 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1450046766 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1450046758 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1450046754 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1450046755 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1450046751 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1450046747 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1450046915 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1450046911 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1450046901 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1450046890 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1450046877 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1450046870 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1450046822 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1450046821 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1450046916 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1450046819 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1450046818 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1450046816 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1450046905 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1450046802 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1450046839 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1450046752 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1450046914 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1450046779 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1450046860 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1450046741 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1450046818 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1450046817 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1450046748 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1450046749 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1450046750 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1450046871 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1450046854 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1450046861 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1450046789 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1450046859 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1450046915 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1450046849 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1450046851 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1450046861 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1450046847 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1450046940 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1450046940 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1450046940 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1450046888 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1460905958 source:c:\opengl_v0\src\api\carc.cpp
+	"../../include/api/CArc.h"
+	<string>
+	<stdio.h>
+
+1450048006 c:\opengl_v0\include\api\carc.h
+	<vector>
+	<string>
+
+1450046790 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1450046941 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1460905979 source:c:\opengl_v0\src\api\cdata2i.cpp
+	"../../include/api/CData2i.h"
+	"../../include/api/consts.h"
+
+1450048001 c:\opengl_v0\include\api\cdata2i.h
+
+1450047988 c:\opengl_v0\include\api\consts.h
+
+1460905989 source:c:\opengl_v0\src\api\cdonneesgraphe.cpp
+	"../../include/api/consts.h"
+	"../../include/api/CDonneesGraphe.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1450047996 c:\opengl_v0\include\api\cdonneesgraphe.h
+	<vector>
+	<string.h>
+	"CData2i.h"
+	"CPoint3f.h"
+
+1450047984 c:\opengl_v0\include\api\cpoint3f.h
+	<string>
+
+1460905995 source:c:\opengl_v0\src\api\cgraphe.cpp
+	"../../include/api/CGraphe.h"
+	<iostream>
+	<string>
+
+1450047991 c:\opengl_v0\include\api\cgraphe.h
+	<vector>
+	<string>
+	"CSegment.h"
+	"CArc.h"
+	"CSommet.h"
+	"CPointAnnexe.h"
+	"CDonneesGraphe.h"
+	"consts.h"
+
+1450047976 c:\opengl_v0\include\api\csegment.h
+
+1450047971 c:\opengl_v0\include\api\csommet.h
+	<vector>
+	<string>
+	"CPoint3f.h"
+
+1450047979 c:\opengl_v0\include\api\cpointannexe.h
+	"CPoint3f.h"
+
+1460906004 source:c:\opengl_v0\src\api\cpoint3f.cpp
+	"../../include/api/CPoint3f.h"
+	"../../include/api/consts.h"
+	<stdio.h>
+
+1460906009 source:c:\opengl_v0\src\api\cpointannexe.cpp
+	"../../include/api/CPointAnnexe.h"
+	<stdio.h>
+
+1460906013 source:c:\opengl_v0\src\api\csegment.cpp
+	"../../include/api/CSegment.h"
+
+1460906020 source:c:\opengl_v0\src\api\csommet.cpp
+	"../../include/api/CSommet.h"
+	"../../include/api/consts.h"
+	<stdio.h>
+	<algorithm>
+
+1460906158 source:c:\opengl_v0\src\api\main.cpp
+	"../../include/api/CDonneesGraphe.h"
+	"../../include/api/CGraphe.h"
+	"../../include/api/CSommet.h"
+	<vector>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1450046782 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1460908372 source:c:\opengl_v0\src\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	"../include/api/CDonneesGraphe.h"
+	"../include/api/CGraphe.h"
+	"../include/api/CSommet.h"
+	<vector>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
