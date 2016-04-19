@@ -1,0 +1,4 @@
+contexte : 2188 lignes dans le main 
+-----------------------------------
+0 - Organisation des fichiers existants en conception objet 
+1 - redéfinition des classes et utilisation des méthodes 
